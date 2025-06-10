@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Creating a gitHub was my homework assignment for version control. I am now taking courses and learning front-end and back-end.
